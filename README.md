@@ -1,6 +1,7 @@
 # Diagramas da primeira etapa.
 
 1º Diagrama de casos de uso:
+
 ![diagrama de casos de uso](https://github.com/carlosdavidantas/ADS-PI-G7/assets/94587505/166b394f-8ba2-48c6-b65e-2128ed5c720c)
 
 2º Diagrama de classes:
