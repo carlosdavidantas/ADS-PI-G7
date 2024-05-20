@@ -1,4 +1,6 @@
-# Diagramas da primeira etapa.
+# Projeto Integrador - Grupo 07.
+
+## Diagramas da primeira etapa.
 
 1º Diagrama de casos de uso:
 
