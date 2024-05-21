@@ -10,6 +10,6 @@
 
 ![diagrama de classes](https://github.com/carlosdavidantas/ADS-PI-G7/assets/94587505/b70f596d-3591-40e3-8508-bb84d87ddf57)
 
-### Protótipos das interfaces do projeto.
+### Protótipos das interfaces do projeto:
 
 ![Interface Projeto Integrador Grupo 07](https://github.com/carlosdavidantas/ADS-PI-G7/assets/94587505/11f3a997-245a-4986-846d-277f97d1135a)
